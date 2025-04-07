@@ -3,8 +3,8 @@ Userspace keylogger written in Go for Windows and Linux. Captures keystrokes, lo
 
 # Features:
 
-•	Logs keys pressed on keyboard 
-•	Sends reports by email.
-•	Starts with system startup.
-•	Works with Linux and Windows.
-•	Does not require root or admin privlages.
+•Logs keys pressed on keyboard 
+•Sends reports by email.
+•Starts with system startup.
+•Works with Linux and Windows.
+•Does not require root or admin privlages.
